@@ -1,2 +1,15 @@
 # Purchase-amount-prediction-using-ANN
-From a Car Salesman's perspective, given a set of features, we need to predict the total amount that customers are willing to pay. 
+## PROBLEM STATEMENT : 
+From a Car Salesman's perspective, given following features, we need to predict the total amount that customers are willing to pay:
+- Customer Name
+- Customer Email
+- Country
+- Gender
+- Age
+- Annual Salary
+- Credit Card Debt
+- Net Worth
+
+The model should predict:
+- Car Purchase Amount
+
