@@ -13,3 +13,4 @@ From a Car Salesman's perspective, given following features, we need to predict 
 The model should predict:
 - Car Purchase Amount
 
+nbviewer URL : https://nbviewer.jupyter.org/github/s9k96/Purchase-amount-prediction-using-ANN/blob/master/main.ipynb
